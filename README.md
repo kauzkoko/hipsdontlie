@@ -1,7 +1,7 @@
 @2024
 
-![LostSignals_1](https://github.com/user-attachments/assets/9881ce3c-fe50-4f02-8aa6-9184dcab3442)
-
-![TVRADIO FM 1](https://github.com/user-attachments/assets/849f8e48-42fa-4a95-8984-f6d384d9ca32)
-
-![LostSignals_3](https://github.com/user-attachments/assets/466bce6d-8a8f-4122-a852-e797d7aa9945)
+<img width="324" alt="LostSignals_1" src="https://github.com/user-attachments/assets/3a8be95a-42c0-4aaa-b63e-1ceb24cfec31" />
+<div></div><div></div>
+<img width="324" alt="TVRADIO FM 1" src="https://github.com/user-attachments/assets/bd1e6a54-c902-46ea-b2ef-520e63e857fa" />
+<div></div><div></div>
+<img width="324" alt="LostSignals_3" src="https://github.com/user-attachments/assets/c212543e-d5f7-47e8-b49e-51b8edfcca6a" />

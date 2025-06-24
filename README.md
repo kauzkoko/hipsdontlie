@@ -4,4 +4,4 @@
 <div></div><div></div>
 <img width="324" alt="TVRADIO FM 1" src="https://github.com/user-attachments/assets/bd1e6a54-c902-46ea-b2ef-520e63e857fa" />
 <div></div><div></div>
-<img width="324" alt="LostSignals_3" src="https://github.com/user-attachments/assets/c212543e-d5f7-47e8-b49e-51b8edfcca6a" />
+<img width="324" alt="LostSignals_4" src="https://github.com/user-attachments/assets/0dfa0708-c1a0-4051-8530-6539e74a2b37" />
